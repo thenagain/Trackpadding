@@ -10,7 +10,7 @@ It can connect immediately iPhone/iPad and mac with **not only Wi-FI also Blueto
 ![Demo](/img/demo.gif)
 
 ## How To Use
-- Run Trackpadding.app on your iPhone/iPad
+- Run [Trackpadding.app](https://github.com/thenagain/Trackpadding) on your iPhone/iPad
 - Run [Trackpadding-macOS.app](https://github.com/thenagain/Trackpadding-macOS) on your mac
 
 
